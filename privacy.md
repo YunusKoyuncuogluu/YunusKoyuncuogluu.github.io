@@ -2,7 +2,7 @@
 
 **Last updated:** 23 November 2026  
 **Developer:** Yumoji Games Studio  
-**Contact:** support@yumojigames.com  
+**Contact:** yunuskoyuncuogluu@gmail.com  
 **App:** Block Jam: Color Match Puzzle (`com.yumojigames.blockjam`)
 
 ## What we collect
@@ -30,10 +30,10 @@ The game is suitable for a general audience. We do not knowingly collect persona
 - Turn off personalized ads through the in-game privacy options (where required) or your device's advertising settings (you can also reset or delete your advertising ID there).
 - Sign out of Google Play Games or Game Center, or delete the saved game in your Google or Apple account, to remove cloud data.
 - Uninstall the app to delete on-device save data.
-- To ask us to delete analytics data linked to your device, email support@yumojigames.com.
+- To ask us to delete analytics data linked to your device, email yunuskoyuncuogluu@gmail.com.
 
 ## Changes
 We may update this policy. The "Last updated" date will change when we do.
 
 ## Contact
-Questions: support@yumojigames.com
+Questions: yunuskoyuncuogluu@gmail.com
